@@ -60,5 +60,5 @@ This dataset consists of <b>7,043 rows</b> and <b>21 columns</b>. In this projec
 
 ## Conclusion
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
-...
+Various customers can be classified into <b>4 groups</b> using the K-Means algorithm with the application of Principal Component Analysis (PCA).
 </p>
