@@ -35,3 +35,30 @@ This dataset consists of <b>7,043 rows</b> and <b>21 columns</b>. In this projec
 | **Monthly Charges**       | Amount of bills the customer pays each month                                      |
 | **Total Charges**         | Total bills the customer has paid since the beginning of the subscription         |
 | **Churn**                 | Customers who left within the last month                                          | 
+
+### Background
+<ul style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
+  <li> Telecommunication company is currently facing serious challenges related to the churn rate of 26.53%, which indicates a high loss of customers. </li>
+
+  <li> The main cause of this phenomena is that the company does not have an effective internal customer segmentation strategy, making it difficult to understand the needs, preferences, and behaviors of each customer group, leading to the development of inappropriate or irrelevant marketing strategies. </li>
+
+  <li> To overcome the high churn problem, the company needs to immediately implement a more detailed and data-driven customer segmentation strategy. Better segmentation will allow the company to focus on designing offers and services that suit the needs of each customer segment. With this approach, it is expected that the churn rate can be reduced, customer loyalty can increase, and the company position in the market can be strengthened. </li>
+</ul>
+
+### The Steps in this Project
+<ul style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
+  <li> Data Collection. </li>
+
+  <li> Data understanding by conducting an initial exploration of the distribution of variables, descriptive statistics, and general patterns present in the data. </li>
+
+  <li> Data preprocessing which includes checking and handling missing values, feature engineering, data encoding, and data standardization. </li>
+
+  <li> Comparing the clustering process using the K-Means algorithm with and without the application of Principal Component Analysis (PCA). </li>
+
+  <li> Analyze the results of customer segmentation. </li>
+</ul>
+
+## Conclusion
+<p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
+...
+</p>
