@@ -6,6 +6,7 @@
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
 Hi, I'm M. Razy Qarar Fairuzzabadi, an Enthusiast Data Scientist. This dataset is an Open Source IBM Sample Dataset that contains customer data of a telecommunications company. This data includes information about customers who quit in the last month, the services each customer has, customer account information, and customer demographic data.
 </p>
+
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
 This dataset consists of <b>7,043 rows</b> and <b>21 columns</b>. In this project, I will perform customer segmentation analysis using K-Means algorithm.
 </p>
