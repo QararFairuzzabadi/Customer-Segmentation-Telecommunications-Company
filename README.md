@@ -1,4 +1,4 @@
-# Analysis and Implementation of Customer Segmentation in the Telecommunications Company
+# Analysis of Customer Segmentation in the Telecommunication Company
 
 ## Overview
 
